@@ -5,7 +5,7 @@ Vyvíjeno s láskou a trochou šílenství, aby ses mohl/a starat se o svého ma
 
 ## 🎮 Zahraj si
 
-👉 [Spusť projekt na Scratchu](https://scratch.mit.edu/projects/TVUJ-ODKAZ-ZDE)
+👉 [Spusť náhled na Scratchi](https://scratch.mit.edu/projects/1186217037/)
 
 > 🛑 Pokud odkaz nefunguje, dej mi vědět
 
